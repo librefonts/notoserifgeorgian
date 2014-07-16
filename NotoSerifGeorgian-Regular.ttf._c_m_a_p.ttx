@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uni0000"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x10a0" name="uni10A0"/><!-- GEORGIAN CAPITAL LETTER AN -->
+      <map code="0x10a1" name="uni10A1"/><!-- GEORGIAN CAPITAL LETTER BAN -->
+      <map code="0x10a2" name="uni10A2"/><!-- GEORGIAN CAPITAL LETTER GAN -->
+      <map code="0x10a3" name="uni10A3"/><!-- GEORGIAN CAPITAL LETTER DON -->
+      <map code="0x10a4" name="uni10A4"/><!-- GEORGIAN CAPITAL LETTER EN -->
+      <map code="0x10a5" name="uni10A5"/><!-- GEORGIAN CAPITAL LETTER VIN -->
+      <map code="0x10a6" name="uni10A6"/><!-- GEORGIAN CAPITAL LETTER ZEN -->
+      <map code="0x10a7" name="uni10A7"/><!-- GEORGIAN CAPITAL LETTER TAN -->
+      <map code="0x10a8" name="uni10A8"/><!-- GEORGIAN CAPITAL LETTER IN -->
+      <map code="0x10a9" name="uni10A9"/><!-- GEORGIAN CAPITAL LETTER KAN -->
+      <map code="0x10aa" name="uni10AA"/><!-- GEORGIAN CAPITAL LETTER LAS -->
+      <map code="0x10ab" name="uni10AB"/><!-- GEORGIAN CAPITAL LETTER MAN -->
+      <map code="0x10ac" name="uni10AC"/><!-- GEORGIAN CAPITAL LETTER NAR -->
+      <map code="0x10ad" name="uni10AD"/><!-- GEORGIAN CAPITAL LETTER ON -->
+      <map code="0x10ae" name="uni10AE"/><!-- GEORGIAN CAPITAL LETTER PAR -->
+      <map code="0x10af" name="uni10AF"/><!-- GEORGIAN CAPITAL LETTER ZHAR -->
+      <map code="0x10b0" name="uni10B0"/><!-- GEORGIAN CAPITAL LETTER RAE -->
+      <map code="0x10b1" name="uni10B1"/><!-- GEORGIAN CAPITAL LETTER SAN -->
+      <map code="0x10b2" name="uni10B2"/><!-- GEORGIAN CAPITAL LETTER TAR -->
+      <map code="0x10b3" name="uni10B3"/><!-- GEORGIAN CAPITAL LETTER UN -->
+      <map code="0x10b4" name="uni10B4"/><!-- GEORGIAN CAPITAL LETTER PHAR -->
+      <map code="0x10b5" name="uni10B5"/><!-- GEORGIAN CAPITAL LETTER KHAR -->
+      <map code="0x10b6" name="uni10B6"/><!-- GEORGIAN CAPITAL LETTER GHAN -->
+      <map code="0x10b7" name="uni10B7"/><!-- GEORGIAN CAPITAL LETTER QAR -->
+      <map code="0x10b8" name="uni10B8"/><!-- GEORGIAN CAPITAL LETTER SHIN -->
+      <map code="0x10b9" name="uni10B9"/><!-- GEORGIAN CAPITAL LETTER CHIN -->
+      <map code="0x10ba" name="uni10BA"/><!-- GEORGIAN CAPITAL LETTER CAN -->
+      <map code="0x10bb" name="uni10BB"/><!-- GEORGIAN CAPITAL LETTER JIL -->
+      <map code="0x10bc" name="uni10BC"/><!-- GEORGIAN CAPITAL LETTER CIL -->
+      <map code="0x10bd" name="uni10BD"/><!-- GEORGIAN CAPITAL LETTER CHAR -->
+      <map code="0x10be" name="uni10BE"/><!-- GEORGIAN CAPITAL LETTER XAN -->
+      <map code="0x10bf" name="uni10BF"/><!-- GEORGIAN CAPITAL LETTER JHAN -->
+      <map code="0x10c0" name="uni10C0"/><!-- GEORGIAN CAPITAL LETTER HAE -->
+      <map code="0x10c1" name="uni10C1"/><!-- GEORGIAN CAPITAL LETTER HE -->
+      <map code="0x10c2" name="uni10C2"/><!-- GEORGIAN CAPITAL LETTER HIE -->
+      <map code="0x10c3" name="uni10C3"/><!-- GEORGIAN CAPITAL LETTER WE -->
+      <map code="0x10c4" name="uni10C4"/><!-- GEORGIAN CAPITAL LETTER HAR -->
+      <map code="0x10c5" name="uni10C5"/><!-- GEORGIAN CAPITAL LETTER HOE -->
+      <map code="0x10d0" name="uni10D0"/><!-- GEORGIAN LETTER AN -->
+      <map code="0x10d1" name="uni10D1"/><!-- GEORGIAN LETTER BAN -->
+      <map code="0x10d2" name="uni10D2"/><!-- GEORGIAN LETTER GAN -->
+      <map code="0x10d3" name="uni10D3"/><!-- GEORGIAN LETTER DON -->
+      <map code="0x10d4" name="uni10D4"/><!-- GEORGIAN LETTER EN -->
+      <map code="0x10d5" name="uni10D5"/><!-- GEORGIAN LETTER VIN -->
+      <map code="0x10d6" name="uni10D6"/><!-- GEORGIAN LETTER ZEN -->
+      <map code="0x10d7" name="uni10D7"/><!-- GEORGIAN LETTER TAN -->
+      <map code="0x10d8" name="uni10D8"/><!-- GEORGIAN LETTER IN -->
+      <map code="0x10d9" name="uni10D9"/><!-- GEORGIAN LETTER KAN -->
+      <map code="0x10da" name="uni10DA"/><!-- GEORGIAN LETTER LAS -->
+      <map code="0x10db" name="uni10DB"/><!-- GEORGIAN LETTER MAN -->
+      <map code="0x10dc" name="uni10DC"/><!-- GEORGIAN LETTER NAR -->
+      <map code="0x10dd" name="uni10DD"/><!-- GEORGIAN LETTER ON -->
+      <map code="0x10de" name="uni10DE"/><!-- GEORGIAN LETTER PAR -->
+      <map code="0x10df" name="uni10DF"/><!-- GEORGIAN LETTER ZHAR -->
+      <map code="0x10e0" name="uni10E0"/><!-- GEORGIAN LETTER RAE -->
+      <map code="0x10e1" name="uni10E1"/><!-- GEORGIAN LETTER SAN -->
+      <map code="0x10e2" name="uni10E2"/><!-- GEORGIAN LETTER TAR -->
+      <map code="0x10e3" name="uni10E3"/><!-- GEORGIAN LETTER UN -->
+      <map code="0x10e4" name="uni10E4"/><!-- GEORGIAN LETTER PHAR -->
+      <map code="0x10e5" name="uni10E5"/><!-- GEORGIAN LETTER KHAR -->
+      <map code="0x10e6" name="uni10E6"/><!-- GEORGIAN LETTER GHAN -->
+      <map code="0x10e7" name="uni10E7"/><!-- GEORGIAN LETTER QAR -->
+      <map code="0x10e8" name="uni10E8"/><!-- GEORGIAN LETTER SHIN -->
+      <map code="0x10e9" name="uni10E9"/><!-- GEORGIAN LETTER CHIN -->
+      <map code="0x10ea" name="uni10EA"/><!-- GEORGIAN LETTER CAN -->
+      <map code="0x10eb" name="uni10EB"/><!-- GEORGIAN LETTER JIL -->
+      <map code="0x10ec" name="uni10EC"/><!-- GEORGIAN LETTER CIL -->
+      <map code="0x10ed" name="uni10ED"/><!-- GEORGIAN LETTER CHAR -->
+      <map code="0x10ee" name="uni10EE"/><!-- GEORGIAN LETTER XAN -->
+      <map code="0x10ef" name="uni10EF"/><!-- GEORGIAN LETTER JHAN -->
+      <map code="0x10f0" name="uni10F0"/><!-- GEORGIAN LETTER HAE -->
+      <map code="0x10f1" name="uni10F1"/><!-- GEORGIAN LETTER HE -->
+      <map code="0x10f2" name="uni10F2"/><!-- GEORGIAN LETTER HIE -->
+      <map code="0x10f3" name="uni10F3"/><!-- GEORGIAN LETTER WE -->
+      <map code="0x10f4" name="uni10F4"/><!-- GEORGIAN LETTER HAR -->
+      <map code="0x10f5" name="uni10F5"/><!-- GEORGIAN LETTER HOE -->
+      <map code="0x10f6" name="uni10F6"/><!-- GEORGIAN LETTER FI -->
+      <map code="0x10f7" name="uni10F7"/><!-- GEORGIAN LETTER YN -->
+      <map code="0x10f8" name="uni10F8"/><!-- GEORGIAN LETTER ELIFI -->
+      <map code="0x10f9" name="uni10F9"/><!-- GEORGIAN LETTER TURNED GAN -->
+      <map code="0x10fa" name="uni10FA"/><!-- GEORGIAN LETTER AIN -->
+      <map code="0x10fb" name="uni10FB"/><!-- GEORGIAN PARAGRAPH SEPARATOR -->
+      <map code="0x10fc" name="uni10FC"/><!-- MODIFIER LETTER GEORGIAN NAR -->
+      <map code="0x2d00" name="uni2D00"/><!-- GEORGIAN SMALL LETTER AN -->
+      <map code="0x2d01" name="uni2D01"/><!-- GEORGIAN SMALL LETTER BAN -->
+      <map code="0x2d02" name="uni2D02"/><!-- GEORGIAN SMALL LETTER GAN -->
+      <map code="0x2d03" name="uni2D03"/><!-- GEORGIAN SMALL LETTER DON -->
+      <map code="0x2d04" name="uni2D04"/><!-- GEORGIAN SMALL LETTER EN -->
+      <map code="0x2d05" name="uni2D05"/><!-- GEORGIAN SMALL LETTER VIN -->
+      <map code="0x2d06" name="uni2D06"/><!-- GEORGIAN SMALL LETTER ZEN -->
+      <map code="0x2d07" name="uni2D07"/><!-- GEORGIAN SMALL LETTER TAN -->
+      <map code="0x2d08" name="uni2D08"/><!-- GEORGIAN SMALL LETTER IN -->
+      <map code="0x2d09" name="uni2D09"/><!-- GEORGIAN SMALL LETTER KAN -->
+      <map code="0x2d0a" name="uni2D0A"/><!-- GEORGIAN SMALL LETTER LAS -->
+      <map code="0x2d0b" name="uni2D0B"/><!-- GEORGIAN SMALL LETTER MAN -->
+      <map code="0x2d0c" name="uni2D0C"/><!-- GEORGIAN SMALL LETTER NAR -->
+      <map code="0x2d0d" name="uni2D0D"/><!-- GEORGIAN SMALL LETTER ON -->
+      <map code="0x2d0e" name="uni2D0E"/><!-- GEORGIAN SMALL LETTER PAR -->
+      <map code="0x2d0f" name="uni2D0F"/><!-- GEORGIAN SMALL LETTER ZHAR -->
+      <map code="0x2d10" name="uni2D10"/><!-- GEORGIAN SMALL LETTER RAE -->
+      <map code="0x2d11" name="uni2D11"/><!-- GEORGIAN SMALL LETTER SAN -->
+      <map code="0x2d12" name="uni2D12"/><!-- GEORGIAN SMALL LETTER TAR -->
+      <map code="0x2d13" name="uni2D13"/><!-- GEORGIAN SMALL LETTER UN -->
+      <map code="0x2d14" name="uni2D14"/><!-- GEORGIAN SMALL LETTER PHAR -->
+      <map code="0x2d15" name="uni2D15"/><!-- GEORGIAN SMALL LETTER KHAR -->
+      <map code="0x2d16" name="uni2D16"/><!-- GEORGIAN SMALL LETTER GHAN -->
+      <map code="0x2d17" name="uni2D17"/><!-- GEORGIAN SMALL LETTER QAR -->
+      <map code="0x2d18" name="uni2D18"/><!-- GEORGIAN SMALL LETTER SHIN -->
+      <map code="0x2d19" name="uni2D19"/><!-- GEORGIAN SMALL LETTER CHIN -->
+      <map code="0x2d1a" name="uni2D1A"/><!-- GEORGIAN SMALL LETTER CAN -->
+      <map code="0x2d1b" name="uni2D1B"/><!-- GEORGIAN SMALL LETTER JIL -->
+      <map code="0x2d1c" name="uni2D1C"/><!-- GEORGIAN SMALL LETTER CIL -->
+      <map code="0x2d1d" name="uni2D1D"/><!-- GEORGIAN SMALL LETTER CHAR -->
+      <map code="0x2d1e" name="uni2D1E"/><!-- GEORGIAN SMALL LETTER XAN -->
+      <map code="0x2d1f" name="uni2D1F"/><!-- GEORGIAN SMALL LETTER JHAN -->
+      <map code="0x2d20" name="uni2D20"/><!-- GEORGIAN SMALL LETTER HAE -->
+      <map code="0x2d21" name="uni2D21"/><!-- GEORGIAN SMALL LETTER HE -->
+      <map code="0x2d22" name="uni2D22"/><!-- GEORGIAN SMALL LETTER HIE -->
+      <map code="0x2d23" name="uni2D23"/><!-- GEORGIAN SMALL LETTER WE -->
+      <map code="0x2d24" name="uni2D24"/><!-- GEORGIAN SMALL LETTER HAR -->
+      <map code="0x2d25" name="uni2D25"/><!-- GEORGIAN SMALL LETTER HOE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
