@@ -1,0 +1,33 @@
+{
+  "name": "Noto Serif Georgian",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 15952,
+  "fonts": [
+    {
+      "name": "Noto Serif Georgian",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSerifGeorgian-Bold.ttf",
+      "postScriptName": "NotoSerifGeorgian-Bold",
+      "fullName": "Noto Serif Georgian Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Serif Georgian",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSerifGeorgian-Regular.ttf",
+      "postScriptName": "NotoSerifGeorgian",
+      "fullName": "Noto Serif Georgian",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
